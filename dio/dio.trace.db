@@ -1,0 +1,12 @@
+2021-09-04 14:44:51 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM EMPRESA LOCALIDADE LOCALIDADE[*]"; SQL statement:
+SELECT * FROM EMPRESA LOCALIDADE LOCALIDADE [42000-200]
+2021-09-04 14:44:57 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "LOCALIDADE[*]"; SQL statement:
+LOCALIDADE [42000-200]
+2021-09-04 14:44:58 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "LOCALIDADE[*]"; SQL statement:
+LOCALIDADE [42000-200]
+2021-09-04 20:27:21 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM JORNADA_TRABALHO JORNADA_TRABALHO_AUD EMPRESA[*]"; SQL statement:
+SELECT * FROM JORNADA_TRABALHO JORNADA_TRABALHO_AUD EMPRESA [42000-200]
